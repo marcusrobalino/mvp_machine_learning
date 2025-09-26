@@ -63,4 +63,3 @@ Pós-graduação em Ciência de Dados e Analytics – PUC-Rio
 - Dataset original: Kaggle – Telco Customer Churn  
 - Documentação oficial: [scikit-learn](https://scikit-learn.org/stable/), [pandas](https://pandas.pydata.org/), [numpy](https://numpy.org/), [matplotlib](https://matplotlib.org/), [seaborn](https://seaborn.pydata.org/)  
 - Material didático da disciplina *Machine Learning – PUC-Rio*  
-- Géron, Aurélien. *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*. O’Reilly, 2022.  
